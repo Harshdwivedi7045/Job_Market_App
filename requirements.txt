@@ -3,3 +3,8 @@ pandas
 plotly
 streamlit-lottie
 requests
+prophet
+matplotlib
+numpy
+spacy
+scipy
